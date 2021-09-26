@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Analizador-Lexico/static/js/main.ef2ffeee.chunk.js",
+    "main.js.map": "/Analizador-Lexico/static/js/main.ef2ffeee.chunk.js.map",
+    "runtime-main.js": "/Analizador-Lexico/static/js/runtime-main.4a4f496d.js",
+    "runtime-main.js.map": "/Analizador-Lexico/static/js/runtime-main.4a4f496d.js.map",
+    "static/js/2.71037ac1.chunk.js": "/Analizador-Lexico/static/js/2.71037ac1.chunk.js",
+    "static/js/2.71037ac1.chunk.js.map": "/Analizador-Lexico/static/js/2.71037ac1.chunk.js.map",
+    "index.html": "/Analizador-Lexico/index.html",
+    "static/js/2.71037ac1.chunk.js.LICENSE.txt": "/Analizador-Lexico/static/js/2.71037ac1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a4f496d.js",
+    "static/js/2.71037ac1.chunk.js",
+    "static/js/main.ef2ffeee.chunk.js"
+  ]
+}
