@@ -52,7 +52,7 @@ const Form = ({ setData }) => {
               label="Escribe o pega el código a analizar"
               multiline
               rows={10}
-              defaultValue=""
+              defaultValue={codigo}
               onChange={({ target: { value } }) => setCodigo(value)}
             />
           </div>

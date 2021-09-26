@@ -17,6 +17,7 @@ const types = [
       'var',
       'let',
       'const',
+      'return',
     ],
   },
   { name: 'parentesis izquierdo', values: ['('] },
