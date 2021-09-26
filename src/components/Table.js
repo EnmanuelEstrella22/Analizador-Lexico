@@ -43,9 +43,9 @@ const TableToken = ({ data }) => {
           <Table sx={{ minWidth: 800 }} size="small" aria-label="a dense table">
             <TableHead style={{ backgroundColor: '##AFAEAE' }}>
               <TableRow>
-                <TableCell>Nombre</TableCell>
-                <TableCell align="left">Tipo</TableCell>
+                <TableCell>Lexema</TableCell>
                 <TableCell align="left">Token</TableCell>
+                <TableCell align="left">Código</TableCell>
               </TableRow>
             </TableHead>
             <TableBody>
