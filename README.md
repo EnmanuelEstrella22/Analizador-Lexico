@@ -6,4 +6,5 @@
 - npm start
 
 ### View
-![analizadorLexico](https://user-images.githubusercontent.com/56686883/134794347-a93ec4a6-deea-43f4-b3f1-8a0e912cdd88.png)
+![Captura de pantalla de 2021-09-26 12-50-58](https://user-images.githubusercontent.com/56686883/134816755-28390097-7b11-4f3f-a31a-9b3a787ac2d3.png)
+
